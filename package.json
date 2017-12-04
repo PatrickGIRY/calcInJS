@@ -1,0 +1,24 @@
+{
+  "name": "calcinjs",
+  "version": "1.0.0",
+  "description": "Calc ins JS",
+  "main": "index.js",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "cucumber": "^3.1.0",
+    "nightwatch": "^0.9.16",
+    "nightwatch-cucumber": "^8.2.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "keywords": [
+    "javascript",
+    "nightwatch",
+    "cucumber"
+  ],
+  "author": "Patrick GIRY",
+  "license": "ISC"
+}
